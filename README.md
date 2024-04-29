@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kevine
+- 👀 I’m interested in MERN
+- 🌱 I’m currently learning SPE
+- 📫 How to reach me uwasek21@gmail.com
